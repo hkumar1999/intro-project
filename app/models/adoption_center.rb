@@ -1,0 +1,2 @@
+class AdoptionCenter < ApplicationRecord
+end
